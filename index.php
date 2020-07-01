@@ -248,70 +248,6 @@
             <div class="single-sidebar-widget">
                 <a href="#" class="add-img"><img src="img/bg-img/add.png" alt=""></a>
             </div>
-
-            <!-- Sidebar Widget -->
-            <div class="single-sidebar-widget p-30">
-                <!-- Section Title -->
-                <div class="section-heading">
-                    <h5>Kejadian</h5>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        <!--
-                        <div class="post-meta d-flex justify-content-between">
-                            <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 34</a>
-                            <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> 84</a>
-                            <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 14</a>
-                        </div>
-                        -->
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                      
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                       
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                       
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
             </div>
         </div>
 
@@ -381,7 +317,7 @@
             <div class="feature-video-posts mb-30">
                 <!-- Section Title -->
                 <div class="section-heading">
-                    <h5>News Feed</h5>
+                    <h5>Kejadian</h5>
                 </div>
 
                 <div class="featured-video-posts">
@@ -391,13 +327,11 @@
                             <div class="single-featured-post">
                                 <!-- Thumbnail -->
                                 <div class="post-thumbnail mb-50">
-                                  
                                 </div>
                                 <!-- Post Contetnt -->
                                 <div class="post-content">
                                     <div class="post-meta">
-                                       
-                                       
+                                     
                                     </div>
                                     
                                 </div>
@@ -410,15 +344,7 @@
                                         <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> 834</a>
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 234</a>
                                     </div>-->
-                                    <!-- Share Info -->
-                                    <div class="share-info">
-                                       
-                                        <!-- All Share Buttons -->
-                                        <div class="all-share-btn d-flex">
-                                            
-                                        </div>
-                                    </div>
-                                </div>
+                                  </div>
                             </div>
                         </div>
 
@@ -683,14 +609,7 @@
                             <div class="post-meta pl-3">
                                 
                             </div>
-                            <!-- Share Info -->
-                            <div class="share-info">
-                               
-                                <!-- All Share Buttons -->
-                                <div class="all-share-btn d-flex">
-                                   
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
 
@@ -713,14 +632,7 @@
                             <div class="post-meta pl-3">
                                 
                             </div>
-                            <!-- Share Info -->
-                            <div class="share-info">
-                               
-                                <!-- All Share Buttons -->
-                                <div class="all-share-btn d-flex">
-                                    
-                                </div>
-                            </div>
+                          
                         </div>
                     </div>
 
@@ -742,15 +654,8 @@
                             <!-- Post Meta -->
                             <div class="post-meta pl-3">
                                
-                            </div>
-                            <!-- Share Info -->
-                            <div class="share-info">
-                                <a href="#" class="sharebtn"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
-                                <!-- All Share Buttons -->
-                                <div class="all-share-btn d-flex">
-                                   
-                                </div>
-                            </div>
+                            </div> 
+                              
                         </div>
                     </div>
                 </div>
