@@ -191,46 +191,6 @@
                 <!-- Single Blog Post -->
                 <div class="single-blog-post d-flex">
                     <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-                    <div class="post-content">
-                        
-                    </div>
-                </div>
-
-                <!-- Single Blog Post -->
-                <div class="single-blog-post d-flex">
-                    <div class="post-thumbnail">
                        
                     </div>
                     <div class="post-content">
@@ -270,46 +230,6 @@
                             
                         </div>
                     </div>
-
-                    <!-- Single Trending Post -->
-                    <div class="single-trending-post">
-                        
-                        <div class="post-content">
-                            
-                        </div>
-                    </div>
-
-                    <!-- Single Trending Post -->
-                    <div class="single-trending-post">
-                        
-                        <div class="post-content">
-                            
-                        </div>
-                    </div>
-
-                    <!-- Single Trending Post -->
-                    <div class="single-trending-post">
-                        
-                        <div class="post-content">
-                           
-                        </div>
-                    </div>
-
-                    <!-- Single Trending Post -->
-                    <div class="single-trending-post">
-                       
-                        <div class="post-content">
-                          
-                        </div>
-                    </div>
-
-                    <!-- Single Trending Post -->
-                    <div class="single-trending-post">
-                        
-                        <div class="post-content">
-                            
-                        </div>
-                    </div>
                 </div>
             </div>
 
@@ -336,15 +256,13 @@
                                     
                                 </div>
                                 <!-- Post Share Area -->
-                                <div class="post-share-area d-flex align-items-center justify-content-between">
-                                    <!-- Post Meta -->
-                                    <!--
-                                    <div class="post-meta pl-3">
+                               <!-- <div class="post-share-area d-flex align-items-center justify-content-between">
+                                        <div class="post-meta pl-3">
                                         <a href="#"><i class="fa fa-eye" aria-hidden="true"></i> 1034</a>
                                         <a href="#"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> 834</a>
                                         <a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i> 234</a>
-                                    </div>-->
-                                  </div>
+                                    </div>
+                                  </div>-->
                             </div>
                         </div>
 
@@ -353,58 +271,6 @@
                             <div class="featured-video-posts-slide owl-carousel">
 
                                 <div class="single--slide">
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                           
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                            
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                          
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                           
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                              
-                                            </div>
-                                        </div>
-                                    </div>
-
                                     <!-- Single Blog Post -->
                                     <div class="single-blog-post d-flex style-3">
                                         <div class="post-thumbnail">
@@ -429,58 +295,6 @@
                                             
                                             <div class="post-meta d-flex">
                                                
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                           
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                           
-                                        </div>
-                                        <div class="post-content">
-                                            
-                                            <div class="post-meta d-flex">
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                            
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Single Blog Post -->
-                                    <div class="single-blog-post d-flex style-3">
-                                        <div class="post-thumbnail">
-                                           
-                                        </div>
-                                        <div class="post-content">
-                                           
-                                            <div class="post-meta d-flex">
-                                                
                                             </div>
                                         </div>
                                     </div>
@@ -513,59 +327,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="single-blog-post style-4">
-                        <div class="post-thumbnail">
-                           
-                        </div>
-                        <div class="post-content">
-                           
-                            <div class="post-meta d-flex">
-                                
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="single-blog-post style-4">
-                        <div class="post-thumbnail">
-                            
-                        </div>
-                        <div class="post-content">
-                            
-                            <div class="post-meta d-flex">
-                               
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="single-blog-post style-4">
-                        <div class="post-thumbnail">
-                            
-                        </div>
-                        <div class="post-content">
-                            
-                            <div class="post-meta d-flex">
-                                
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="single-blog-post style-4">
-                        <div class="post-thumbnail">
-                            
-                        </div>
-                        <div class="post-content">
-                            
-                            <div class="post-meta d-flex">
-                                
-                            </div>
-                        </div>
-                    </div>
-
                     <!-- Single Blog Post -->
                     <div class="single-blog-post style-4">
                         <div class="post-thumbnail">
@@ -578,7 +339,6 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
 
@@ -594,7 +354,6 @@
                     <div class="single-featured-post">
                         <!-- Thumbnail -->
                         <div class="post-thumbnail mb-50">
-                           
                         </div>
                         <!-- Post Contetnt -->
                         <div class="post-content">
@@ -603,14 +362,7 @@
                             </div>
                             
                         </div>
-                        <!-- Post Share Area -->
-                        <div class="post-share-area d-flex align-items-center justify-content-between">
-                            <!-- Post Meta -->
-                            <div class="post-meta pl-3">
-                                
-                            </div>
-                           
-                        </div>
+                       
                     </div>
 
                     <!-- Single Featured Post -->
@@ -627,37 +379,17 @@
                             
                         </div>
                         <!-- Post Share Area -->
+                        <!--
                         <div class="post-share-area d-flex align-items-center justify-content-between">
-                            <!-- Post Meta -->
+                            
                             <div class="post-meta pl-3">
                                 
                             </div>
                           
-                        </div>
+                        </div>-->
                     </div>
 
-                    <!-- Single Featured Post -->
-                    <div class="single-featured-post">
-                        <!-- Thumbnail -->
-                        <div class="post-thumbnail mb-50">
-                           
-                        </div>
-                        <!-- Post Contetnt -->
-                        <div class="post-content">
-                            <div class="post-meta">
-                               
-                            </div>
-                            
-                        </div>
-                        <!-- Post Share Area -->
-                        <div class="post-share-area d-flex align-items-center justify-content-between">
-                            <!-- Post Meta -->
-                            <div class="post-meta pl-3">
-                               
-                            </div> 
-                              
-                        </div>
-                    </div>
+                    
                 </div>
 
                 <div class="row">
@@ -675,53 +407,7 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="col-12 col-lg-6">
-                        <div class="single-blog-post d-flex style-3 mb-30">
-                            <div class="post-thumbnail">
-                                
-                            </div>
-                            <div class="post-content">
-                               
-                                <div class="post-meta d-flex">
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="col-12 col-lg-6">
-                        <div class="single-blog-post d-flex style-3 mb-30">
-                            <div class="post-thumbnail">
-                              
-                            </div>
-                            <div class="post-content">
-                               
-                                <div class="post-meta d-flex">
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Single Blog Post -->
-                    <div class="col-12 col-lg-6">
-                        <div class="single-blog-post d-flex style-3 mb-30">
-                            <div class="post-thumbnail">
-                               
-                            </div>
-                            <div class="post-content">
-                                
-                                <div class="post-meta d-flex">
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
-
             </div>
         </div>
 
@@ -735,20 +421,10 @@
             </div>
 
             <!-- Sidebar Widget -->
-            <div class="single-sidebar-widget p-30">
-                <!-- Section Title -->
-                <div class="section-heading">
-                    <h5>Categories</h5>
-                </div>
-
-                <!-- Catagory Widget -->
-                <ul class="catagory-widgets">
-                    <li><a href="#"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i> Kejadian</span> <span>35</span></a></li>
-                    <li><a href="#"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i> Kegiatan</span> <span>30</span></a></li>
-                    <li><a href="#"><span><i class="fa fa-angle-double-right" aria-hidden="true"></i> Kuliner</span> <span>13</span></a></li>
-                </ul>
+            <div class="single-sidebar-widget">
+                <a href="#" class="add-img"><img src="img/bg-img/add2.png" alt=""></a>
             </div>
-
+            <br>
             <!-- Sidebar Widget -->
             <div class="single-sidebar-widget">
                 <a href="#" class="add-img"><img src="img/bg-img/add2.png" alt=""></a>
@@ -760,20 +436,14 @@
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">
         <div class="container">
-            <div class="row">
-                
+            <div class="row"> 
                 </div>
-
-                
-
-                
                 <!-- Footer Widget Area -->
                 <div class="col-12 col-sm-6 col-lg-3">
                     
                 </div>
             </div>
         </div>
-
         <!-- Copywrite Area -->
         <div class="copywrite-area">
             <div class="container">
